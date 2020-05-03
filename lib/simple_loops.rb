@@ -12,4 +12,6 @@ end
 def loop_message_n_times(message, integer)
   
   while message < integer.length do
-    
+    puts message 
+  end
+end
