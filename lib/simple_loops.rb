@@ -21,5 +21,9 @@ end
 
 
 def output_array(array)
-  
-end
+  counter = 0 
+  while counter < array.length do
+    puts array
+    counter += 1 
+  end
+end 
